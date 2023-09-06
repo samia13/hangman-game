@@ -3,10 +3,13 @@
 }
 body {
   font-family: Tahoma, Arial;
+  margin:0;
+  height:100vh;
+  display:grid;
+  place-items:center;
 }
 
 .container {
-  margin: 20px auto;
   width: 1000px;
 }
 
